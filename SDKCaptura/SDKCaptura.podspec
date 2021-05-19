@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SDKCaptura"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.2"
   spec.summary      = "Componente para captura de documentos"
   spec.description  = "Teste de captura de documentos utilizando UIKit"
 

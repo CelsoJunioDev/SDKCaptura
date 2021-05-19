@@ -6,6 +6,6 @@ target 'SDKCapturaDemo' do
   use_frameworks!
 
   # Pods for SDKCapturaDemo
-  pod 'SDKCaptura', :path => '../SDKCaptura'
-
+#  pod 'SDKCaptura', :path => '../SDKCaptura'
+    pod 'SDKCaptura'
 end

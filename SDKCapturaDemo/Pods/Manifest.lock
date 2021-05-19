@@ -1,0 +1,16 @@
+PODS:
+  - SDKCaptura (1.0.0)
+
+DEPENDENCIES:
+  - SDKCaptura (from `../SDKCaptura`)
+
+EXTERNAL SOURCES:
+  SDKCaptura:
+    :path: "../SDKCaptura"
+
+SPEC CHECKSUMS:
+  SDKCaptura: c5f4124971fc5f51300d68260911baf95e567d58
+
+PODFILE CHECKSUM: 5448a68d48e5d2a5ce8668836cc92b252920c722
+
+COCOAPODS: 1.10.1

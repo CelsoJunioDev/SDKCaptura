@@ -1,0 +1,6 @@
+framework module SDKCaptura {
+  umbrella header "SDKCaptura-umbrella.h"
+
+  export *
+  module * { export * }
+}

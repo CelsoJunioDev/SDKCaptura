@@ -1,0 +1,11 @@
+framework module SDKCaptura {
+  umbrella header "SDKCaptura.h"
+
+  export *
+  module * { export * }
+}
+
+module SDKCaptura.Swift {
+    header "SDKCaptura-Swift.h"
+    requires objc
+}

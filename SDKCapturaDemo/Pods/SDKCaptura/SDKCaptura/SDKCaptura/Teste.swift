@@ -17,7 +17,4 @@ public struct Teste {
    public static func sayHello(){
         print("Hello! How are you doing???")
     }
-    public static func sayGoodbye(){
-         print("Goodbye!")
-     }
 }
